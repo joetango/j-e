@@ -4,4 +4,7 @@ def isEven(n):
     else:
         return False
     
+print(isEven(2))
+print(isEven(5))
+    
 # I've finally done it
