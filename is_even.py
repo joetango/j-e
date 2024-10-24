@@ -7,4 +7,4 @@ def isEven(n):
 print(isEven(2))
 print(isEven(5))
     
-# I've finally done it
+print("We two kings are the git legends!")
