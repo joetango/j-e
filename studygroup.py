@@ -12,8 +12,8 @@ class studyGroup:
 
 group = studyGroup()
 
-group.add_member("Evvyg", 27)
-group.add_member("JOerizzy", 17)
+group.add("Evvyg", 27)
+group.add("JOerizzy", 17)
 
 roster = group.get_roster()
 
